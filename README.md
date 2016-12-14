@@ -1,2 +1,2 @@
 # Zhouxingchi
-The introduce of Zhouxingchi which is a Chinese actor.
+The introduce of Zhouxingchi -- a Chinese actor.
