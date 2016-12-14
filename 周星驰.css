@@ -1,0 +1,55 @@
+@font-face{
+    font-family: "Microsoft YaHei";
+    src: url("微软雅黑.ttf");
+}
+body{
+    font-size: small;
+    font-family: "Microsoft YaHei", sans-serif;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: #fff; 
+}
+
+#imgbody{
+    background-color: white;
+    margin: 1px 255px;
+}
+
+#introduce{
+    width: 800px;
+    margin: 5px auto;
+    text-align: left;
+}
+
+h1{
+    font-size: 5em;
+    line-height: 0.1em;
+    padding: 10px;
+}
+
+blockquote{
+    text-align: center;
+}
+
+h2{
+    font-size: 2.5em;
+    font-style: italic;
+    line-height: 0.2em;
+}
+
+#mainbody{
+    background-color: #eee;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    text-decoration: underline;
+}
